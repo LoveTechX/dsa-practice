@@ -1,5 +1,12 @@
 # 📚 DSA Progress Tracker
 
+## 📊 Progress
+
+**Solved:** 1 / 20 problems  
+**Completion:** 5%
+
+---
+
 This file tracks my progress while practicing **Data Structures and Algorithms**.
 
 ---
