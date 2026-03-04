@@ -1,9 +1,11 @@
 # 📚 DSA Progress Tracker
 
+![DSA Progress](https://img.shields.io/badge/DSA%20Progress-5%25-brightgreen)
+
 ## 📊 Progress
 
-**Solved:** 1 / 20 problems  
-**Completion:** 5%
+Solved: **1 / 20 problems**  
+Completion: **5%**
 
 ---
 
