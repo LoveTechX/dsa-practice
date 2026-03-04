@@ -2,20 +2,38 @@
 
 A structured Data Structures and Algorithms (DSA) practice repository with automated progress reporting.
 
+<!-- DSA_DASHBOARD:START -->
 ## DSA Dashboard
 
-This repository includes an automated dashboard generated from solution files and git history.
+![Solved](https://img.shields.io/badge/Solved-1-0A66C2)
+![Easy](https://img.shields.io/badge/Easy-1-2EA44F)
+![Medium](https://img.shields.io/badge/Medium-0-FB8C00)
+![Hard](https://img.shields.io/badge/Hard-0-D73A49)
+![Progress](https://img.shields.io/badge/Progress-1%25-6F42C1)
 
-- Total Problems Solved: tracked in `progress.md`
-- Difficulty Statistics: Easy / Medium / Hard counts
-- Topic Coverage: Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming, Recursion
-- Progress Bar: target-based visual progress toward 300 solved problems
+- Total solved: 1
+- Difficulty: Easy 1 | Medium 0 | Hard 0
+- Progress: █------------------- 1% (target: 300)
 
-Generated dashboard files:
+### Topic Coverage
+
+- Arrays: 1
+- Strings: 0
+- Linked List: 0
+- Stack: 0
+- Queue: 0
+- Trees: 0
+- Graphs: 0
+- Dynamic Programming: 0
+- Recursion: 0
+
+### Analytics Files
 
 - [Progress Dashboard](./progress.md)
 - [Problem History Timeline](./history.md)
 - [Contributor Leaderboard](./leaderboard.md)
+- [Raw Statistics](./stats.json)
+<!-- DSA_DASHBOARD:END -->
 
 ## Project Overview
 
@@ -71,6 +89,7 @@ python update_progress.py
 ├── history.md
 ├── leaderboard.md
 ├── progress.md
+├── stats.json
 ├── update_progress.py
 └── README.md
 ```
