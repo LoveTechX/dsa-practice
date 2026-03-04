@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -21,10 +23,10 @@ jobs:
       - name: Run progress update script
         run: python update_progress.py
 
-      - name: Commit updated progress.md
+      - name: Commit generated dashboard files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add progress.md
-          git commit -m "Auto-update DSA progress" || echo "No changes to commit"
+          git add progress.md history.md leaderboard.md
+          git commit -m "Auto-update DSA dashboard" || echo "No changes to commit"
           git push
