@@ -1,56 +1,16 @@
-# DSA Progress Tracker
+# 📚 DSA Progress Tracker
 
-This file tracks my progress in Data Structures and Algorithms practice.
+This file is **automatically generated** from solved problems.
 
----
+## 📊 Overall Progress
 
-## Arrays
-- [x] [Two Sum] (arrays/easy/two_sum.cpp)
-- [ ] Maximum Subarray
-- [ ] Best Time to Buy and Sell Stock
+**Problems Solved:** 1
 
----
-
-## Strings
-- [ ] Valid Palindrome
-- [ ] Longest Common Prefix
+Progress: █░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## Linked List
-- [ ] Reverse Linked List
-- [ ] Detect Cycle in Linked List
+## 📂 Solved Problems
 
----
+- [x] [Two Sum](arrays\easy\two_sum.cpp) (easy) | [Problem Link](https://leetcode.com/problems/two-sum/)
 
-## Stack
-- [ ] Valid Parentheses
-
----
-
-## Queue
-- [ ] Implement Queue using Stack
-
----
-
-## Trees
-- [ ] Binary Tree Inorder Traversal
-- [ ] Maximum Depth of Binary Tree
-
----
-
-## Graphs
-- [ ] DFS Traversal
-- [ ] BFS Traversal
-
----
-
-## Dynamic Programming
-- [ ] Climbing Stairs
-- [ ] House Robber
-
----
-
-## Recursion
-- [ ] Factorial using Recursion
-- [ ] Fibonacci using Recursion
