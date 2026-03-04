@@ -5,7 +5,7 @@ This file tracks my progress in Data Structures and Algorithms practice.
 ---
 
 ## Arrays
-- [ ] Two Sum
+- [x] [Two Sum] (arrays/easy/two_sum.cpp)
 - [ ] Maximum Subarray
 - [ ] Best Time to Buy and Sell Stock
 
