@@ -1,11 +1,11 @@
-# DSA Progress Tracker
+# 📚 DSA Progress Tracker
 
-This file tracks my progress in Data Structures and Algorithms practice.
+This file tracks my progress while practicing **Data Structures and Algorithms**.
 
 ---
 
 ## Arrays
-- [x] [Two Sum] (arrays/easy/two_sum.cpp)
+- [x] [Two Sum](arrays/easy/two_sum.cpp) | [Problem Link](https://leetcode.com/problems/two-sum/)
 - [ ] Maximum Subarray
 - [ ] Best Time to Buy and Sell Stock
 
